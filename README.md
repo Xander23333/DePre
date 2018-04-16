@@ -1,2 +1,2 @@
-# DePre
-Emotion detection and analysis by Microsoft&reg; Cognitive API
+# KYShooter
+*Emotion detect and analyse* by Microsoft&reg; Cognitive API
